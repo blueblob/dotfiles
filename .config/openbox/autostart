@@ -1,0 +1,7 @@
+feh --bg-tile ~/.config/wallpapers/assassinsCreed.jpeg &
+xcompmgr -C &
+bmpanel2 -c ~/.config/bmpanel2/bmpanel2rc &
+adeskmenu --no-tray &
+urxvtd &
+sleep 10 && wbar &
+sleep 20 && offlineimap &
